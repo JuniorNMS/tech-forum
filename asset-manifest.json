@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tech-forum/static/css/main.3fa8987f.css",
+    "main.js": "/tech-forum/static/js/main.8759ed8b.js",
+    "index.html": "/tech-forum/index.html",
+    "main.3fa8987f.css.map": "/tech-forum/static/css/main.3fa8987f.css.map",
+    "main.8759ed8b.js.map": "/tech-forum/static/js/main.8759ed8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa8987f.css",
+    "static/js/main.8759ed8b.js"
+  ]
+}
